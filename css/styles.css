@@ -227,7 +227,7 @@ body {
 }
 
 .features-list-item {
-  flex-basis: calc((100% -24px * 3) / 4);
+  flex-basis: calc((100% - 24px * 3) / 4);
 }
 
 .features-icon-box {

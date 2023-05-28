@@ -377,6 +377,7 @@ body {
   letter-spacing: var(--text-spacing);
   text-transform: capitalize;
   margin-bottom: 72px;
+  color: var(--dark-color);
 }
 
 .customers-list {

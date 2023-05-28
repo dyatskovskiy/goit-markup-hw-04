@@ -339,6 +339,7 @@ body {
 .team-soc-list {
   display: flex;
   justify-content: center;
+  align-items: center;
   gap: 24px;
 }
 
@@ -351,7 +352,13 @@ body {
   height: 100%;
   background-color: var(--passive-color);
   border-radius: 50%;
-  display: block;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.team-soc-icon {
+  fill: var(--light-color);
 }
 
 /* ----------------- Секція: Наші клієнти ----------------- */
